@@ -3,7 +3,7 @@
 
 <img src="res/logo/logo.png" width="500px">
 
-# SCHOOLIGO: 🚌 A Next-Gen School Bus Tracking System 🌟
+# SCHOOLIGO - Driver: 🚌 A Next-Gen School Bus Tracking System 🌟
 
 Welcome to SCHOOLIGO, where the future of school transportation management is redefined! Developed collaboratively as a university project using Flutter, SCHOOLIGO offers an innovative solution for schools, parents, and bus drivers.
 
